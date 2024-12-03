@@ -85,7 +85,7 @@
 <h3 align="left">:trophy: Trophies:</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ParhamPishro&theme=radical&margin-w=15&margin-h=15&row=1&column=6" alt="Parham's GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ParhamPishro&theme=matrix&margin-w=1&margin-h=1&no-frame=true" alt="Parham's GitHub trophies" />
 </div>
 
 ---
