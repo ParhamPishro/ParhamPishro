@@ -82,6 +82,14 @@
 
 ---
 
+<h3 align="left">:trophy: Trophies:</h3>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ParhamPishro&theme=radical&margin-w=15&margin-h=15&row=1&column=6" alt="Parham's GitHub trophies" />
+</div>
+
+---
+
 <h3 align="left">:snake: Snake Feeding:</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parhampishro/parhampishro/output/github-contribution-grid-snake-dark.svg">
