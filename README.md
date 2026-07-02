@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=parhampishro&label=Profile%20views&color=0e75b6&style=flat" alt="parhampishro" /> </p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Parham Pishro</h1> 
 <h3 align="center"> :mortar_board: Master's Degree in Data Science</h3>
-<h3 align="center"> :computer: Junior Data Scientist </h3>
+<h3 align="center"> :computer: Mid-level Data Scientist </h3>
 
 - :dart: I want to be a **Game Data Scientist**
 
