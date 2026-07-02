@@ -3,7 +3,7 @@
 <h3 align="center"> :mortar_board: Master's Degree in Data Science</h3>
 <h3 align="center"> :computer: Mid-level Data Scientist </h3>
 
-- :dart: I want to be a **Game Data Scientist**
+- :dart: I want to be a **Game Data Scientist**.
 
 - 🌱 I’m always Learning.
 
