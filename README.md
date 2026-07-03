@@ -3,11 +3,11 @@
 <h3 align="center"> :mortar_board: Master's Degree in Data Science</h3>
 <h3 align="center"> :computer: Mid-level Data Scientist </h3>
 
-- :dart: I want to be a **Game Data Scientist**.
-
-- 🌱 I’m always Learning.
-
-- :heart: I'm Intrested in Video Game :video_game:, Board Game :game_die:, Programming :man_technologist:, Reading Personal Growth and Self Improvement Books :books:, Neuroscience :brain:, jogging :walking_man:, Volleyball :volleyball:, Exploring Other Cultures through Traveling :airplane:.
+**Research Interests:**
+ Machine Learning
+• Data Mining
+• Deep Learning
+• Healthcare AI
 
 - :email: How to reach me **PrPishro@gmail.com**
 
