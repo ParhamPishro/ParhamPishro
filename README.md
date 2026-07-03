@@ -5,7 +5,7 @@
 
 - :dart: I want to be a **Game Data Scientist**.
 
-- 🌱 I’m always Learning
+- 🌱 I’m always Learning.
 
 - :heart: I'm Intrested in Video Game :video_game:, Board Game :game_die:, Programming :man_technologist:, Reading Personal Growth and Self Improvement Books :books:, Neuroscience :brain:, jogging :walking_man:, Volleyball :volleyball:, Exploring Other Cultures through Traveling :airplane:.
 
