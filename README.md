@@ -9,7 +9,7 @@
 • Deep Learning
 • Healthcare AI
 
-- :email: How to reach me... **PrPishro@gmail.com**
+- :email: How to reach me **PrPishro@gmail.com**
 
 ---
 
