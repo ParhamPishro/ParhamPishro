@@ -4,7 +4,7 @@
 <h3 align="center"> :computer: Mid-level Data Scientist </h3>
 
 **Research Interests:**
- Machine Learning
+ Machine Learnin
 • Data Mining
 • Deep Learning
 • Healthcare AI
