@@ -5,7 +5,7 @@
 
 **Research Interests:**
  Machine Learning
-• Data Mining
+• Data Minin
 • Deep Learning
 • Healthcare AI
 
