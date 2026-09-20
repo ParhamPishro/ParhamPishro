@@ -67,7 +67,7 @@
 
 <p align="center">
 <a>
-  <img width="433px" src="https://github-readme-stats.vercel.app/api?username=parhampishro&theme=merko">
+  <img width="433px" src="https://github-stats-extended.vercel.app/api?username=parhampishro&theme=merko">
 </a>
 <a">
   <img width="393px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=parhampishro&layout=compact&theme=merko" />
