@@ -72,9 +72,13 @@
 <a">
   <img width="393px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=parhampishro&layout=compact&theme=merko" />
 </a>
-<a>
-  <img width="433px" src="https://github-readme-activity-graph.vercel.app/graph?username=parhampishro&theme=merko">
-</a>
+<p align="center">
+  <img
+    width="433px"
+    src="https://raw.githubusercontent.com/parhampishro/parhampishro/output/activity-graph.svg"
+    alt="GitHub Activity Graph"
+  />
+</p>
 <a>
   <img width="393px" src="https://github-readme-streak-stats.herokuapp.com/?user=parhampishro&theme=merko" />
 </a>
