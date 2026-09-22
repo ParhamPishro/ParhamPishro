@@ -67,10 +67,10 @@
 
 <p align="center" style="font-size: 0;">
 <a>
-  <img height="200px" src="https://github-stats-extended.vercel.app/api?username=parhampishro&theme=merko">
+  <img height="180px" src="https://github-stats-extended.vercel.app/api?username=parhampishro&theme=merko">
 </a>
 <a>
-  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=parhampishro&theme=merko" />
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=parhampishro&theme=merko" />
 </a>
 </p>
 
