@@ -65,6 +65,13 @@
 
 <h3 align="left">:bar_chart: My Stats:</h3>
 
+<a>
+  <img width="433px" src="https://github-stats-extended.vercel.app/api?username=parhampishro&theme=merko">
+</a>
+<a">
+  <img width="393px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=parhampishro&layout=compact&theme=merko" />
+</a>
+
 <p align="center">
   <a href="https://github.com/ParhamPishro/ParhamPishro">
     <img
@@ -73,14 +80,7 @@
       alt="GitHub Activity Graph"
     />
   </a>
-</p>
 
-  <img
-    width="433px"
-    src="https://raw.githubusercontent.com/parhampishro/parhampishro/output/activity-graph.svg"
-    alt="GitHub Activity Graph"
-  />
-</p>
 <a>
   <img width="393px" src="https://github-readme-streak-stats.herokuapp.com/?user=parhampishro&theme=merko" />
 </a>
