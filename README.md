@@ -65,12 +65,14 @@
 
 <h3 align="left">:bar_chart: My Stats:</h3>
 
+<p>
 <a>
   <img width="433px" src="https://github-stats-extended.vercel.app/api?username=parhampishro&theme=merko">
 </a>
 <a>
   <img width="393px" src="https://github-readme-streak-stats.herokuapp.com/?user=parhampishro&theme=merko" />
 </a>
+</p>
 
 ---
 
