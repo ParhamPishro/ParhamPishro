@@ -1,0 +1,41 @@
+name: Generate GitHub Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: ParhamPishro
+          output_path: assets/github-trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: matrix
+
+      - name: Commit trophy SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/github-trophies.svg
+
+          git diff --cached --quiet || git commit -m "Update GitHub trophies"
+
+          git push
