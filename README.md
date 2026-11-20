@@ -4,9 +4,10 @@
 <h3 align="center"> :computer: Mid-level Data Scientist </h3>
 
 **Research Interests:**
- Machine Learning
-• Data Mining
-• Deep Learning
+ Applied Machine Learning
+• NeuroAI
+• Biomedical Data Science
+• Computational Cognitive Neuroscience
 • Healthcare AI
 
 - :email: How to reach me **PrPishro@gmail.com**
