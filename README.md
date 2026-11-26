@@ -9,7 +9,7 @@
 • Biomedical Data Science
 • Computational Cognitive Neuroscience
 • Healthcare AI
-• Bioinformatics
+• Neuroinformatics
 
 - :email: How to reach me **PrPishro@gmail.com**
 
