@@ -4,10 +4,10 @@
 <h3 align="center"> :computer: Mid-level Data Scientist </h3>
 
 **Research Interests:**
- Applied Machine Learning
+ Computational Cognitive Neuroscience
 • NeuroAI
 • Biomedical Data Science
-• Computational Cognitive Neuroscience
+• Applied Machine Learning
 • Healthcare AI
 • Neuroinformatics
 
